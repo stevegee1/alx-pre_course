@@ -5,3 +5,6 @@
   Projectstake
   <br>
 </h1>
+
+# Graduate Program
+This is the repository for graduate trainees to submit their assessment solutions.
